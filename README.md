@@ -1,7 +1,7 @@
 # The-Three-Musketeers-journey-in-C
 
 Problem:
-+Queen Anne, the king's wife Louis XIII, gave the necklace his diamond for the duke Buckingham, UK. know
++ Queen Anne, the king's wife Louis XIII, gave the necklace his diamond for the duke Buckingham, UK. know
 this, Cardinal Cardinal
 Richelieu then instigated King Louis
 XIII holds a ball with a request
